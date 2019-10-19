@@ -7,3 +7,5 @@ Tereza Kmošková - sobota - git pyladies
 ## Dalsi zmena
 
 Dalsi zmena
+
+Tuhle zmenu jsem udelala ve vetvi master
